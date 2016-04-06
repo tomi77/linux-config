@@ -1,0 +1,2 @@
+xss-lock -- i3lock -n &
+xautolock -time 10 -locker "i3lock" -detectsleep -notify 10 &
